@@ -1,3 +1,11 @@
+<?php
+########################
+## www.nefret.org
+########################
+
+## Sponsored by : iyinet.com
+?>
+
 <style type="text/css">
 ul.sayfala{
 list-style: none;
